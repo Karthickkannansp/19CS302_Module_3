@@ -1,6 +1,6 @@
 # EX 11 C Program to convert a given decimal value to binary using function without arguments with return type.
 ## DATE:
-## AIM:
+## AIM:05/04/2025
 To write a C Program to convert a given decimal value to binary using function without arguments with return type.
 
 ## Algorithm
@@ -15,6 +15,9 @@ To write a C Program to convert a given decimal value to binary using function w
 
 ## Program:
 ```
+Program to convert a given decimal value to binary using function without arguments with return type
+Developed by Karthick Kannan SP
+Register number:212222060114
 #include<stdio.h>
 Int dectobin(int d){
 int bin =0,base=1,rem; 
