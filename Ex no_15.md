@@ -1,5 +1,5 @@
 # EX 15 C program that reads a one-dimensional array of integers and replaces all even elements with 'E'.
-## DATE:07-05-2025
+## DATE:05-04-2025
 ## AIM:
 To write a C program that reads a one-dimensional array of integers and replaces all even elements with 'E'.
 
@@ -14,6 +14,9 @@ To write a C program that reads a one-dimensional array of integers and replaces
 
 ## Program:
 ```
+program that reads a one-dimensional array of integers and replaces all even elements with 'E'
+Developed by Karthick Kannan SP
+Register number:212222060114
 c program
 #include <stdio.h>
 int main() {
